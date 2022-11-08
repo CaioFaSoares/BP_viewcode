@@ -1,10 +1,3 @@
-//
-//  ViewCodingProtocol.swift
-//  BP_viewcode
-//
-//  Created by Caio Soares on 08/11/22.
-//
-
 import Foundation
 
 protocol ViewCoding: AnyObject {
